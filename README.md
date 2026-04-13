@@ -4,7 +4,7 @@
 [![Selenium](https://img.shields.io/badge/Selenium-4.x-green.svg)](https://selenium.dev/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> 基于 Selenium + Edge 浏览器的雨课堂自动化学习工具，支持自动登录、批量播放视频、进度监控等功能。
+> 多智能体协作包括codex，cloud code开发的基于 Selenium + Edge 浏览器的雨课堂自动化学习工具，支持自动登录、批量播放视频、进度监控等功能。
 
 ## ✨ 功能特性
 
